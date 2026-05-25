@@ -10,7 +10,8 @@ https://bazi.youdaopaipan.com/help.html
  
 3. 如何使用？
    
- <img width="400" height="900" alt="image" src="https://bazi.youdaopaipan.com/help/help1.png" />
+   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5a9031a1-703c-4fc5-ad2b-8a0c153edd92" />
+
 
 4. 获得APP？
    
@@ -21,6 +22,7 @@ https://bazi.youdaopaipan.com/help.html
  <img width="400" height="900" alt="image" src="https://bazi.youdaopaipan.com/help/share1.PNG" />
 
 7. 卦例1
+   
    <img width="400" height="1900" alt="image" src="https://github.com/user-attachments/assets/094d29be-e758-4d31-a59e-d912a4b23996" />
 
 
