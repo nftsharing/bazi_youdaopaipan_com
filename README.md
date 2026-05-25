@@ -10,7 +10,7 @@ https://bazi.youdaopaipan.com/help.html
  
 3. 如何使用？
    
-   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5a9031a1-703c-4fc5-ad2b-8a0c153edd92" />
+   <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/5a9031a1-703c-4fc5-ad2b-8a0c153edd92" />
 
 
 4. 获得APP？
