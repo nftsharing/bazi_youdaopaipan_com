@@ -11,7 +11,7 @@ https://www.youdaopaipan.com
 
  
 ## 3. 如何使用？
-<img width="642" height="984" alt="image" src="https://github.com/user-attachments/assets/e7ec35b4-f144-4473-a010-897825e5640f" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/e7ec35b4-f144-4473-a010-897825e5640f" />
 
 
 
