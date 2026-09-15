@@ -4,6 +4,8 @@ https://bazi.youdaopaipan.com/
 
 https://bazi.youdaopaipan.com/help.html
 
+https://www.youdaopaipan.com
+
 ## 1. 什么是八字？
  <img width="400" height="900" alt="image" src="https://github.com/user-attachments/assets/cf76a56c-9d13-48e2-b29a-e93b55215762" />
 
